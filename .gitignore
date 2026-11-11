@@ -1,0 +1,20 @@
+# Keil MDK build artifacts
+MDK-ARM/test_feedback/
+MDK-ARM/DebugConfig/
+MDK-ARM/*.uvguix.*
+MDK-ARM/*.lst
+MDK-ARM/build_log.txt
+
+# Other build outputs
+*.o
+*.crf
+*.d
+*.axf
+*.hex
+*.map
+*.dep
+*.lnp
+
+# OS files
+Thumbs.db
+.DS_Store
